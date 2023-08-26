@@ -1,0 +1,24 @@
+
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto: 
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+Por diversos factores que pueden afectar como por ejemplo:
+El tipo de compilador
+Plataforma de dependencia
+Api y librerías
+Por el tipo de configuración del sistema
+
+¿Qué tipo de máquina virtual soporta virtualBox?. 
+Windows
+Solaris
+Linux
+Mac os
+
+¿Qué función cumple el hypervisor en la virtualización?
+Crear máquinas virtuales
+Asignar recursos
+Gestionar Red
+Escalabilidad
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+No, por el aislamiento entre máquinas virtuales, y esto es una característica fundamental de la MV
+
